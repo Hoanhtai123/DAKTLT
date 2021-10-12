@@ -128,3 +128,4 @@ int main()
         if(s>arr[i])
             s = arr[i];
     }
+https://clanguage0.blogspot.com/2019/10/program-in-c-to-find-smallest-prime.html
